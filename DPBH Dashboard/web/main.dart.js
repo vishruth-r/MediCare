@@ -40910,7 +40910,7 @@ l(){var s=this.f
 s===$&&A.c()
 s.l()
 this.T9()},
-R(a){var s,r=null,q=A.ahO(A.e1("Dark Pattern Detector - Clocktantra",r)),p=A.Ci(A.e1("Total Dark Patterns Detected",A.eR(r,r,B.q9,r,r,r,r,r,r,r,r,24,r,r,B.aK,r,r,!0,r,r,r,r,r,r,r,r)),r,r),o=A.Ci(A.a5w(new A.a7J(),A.bT(0,0,2),new A.hs(0,1408),t.S),r,r),n=A.fS(r,20,r),m=A.e1("Site-wise Data:",A.eR(r,r,B.q9,r,r,r,r,r,r,r,r,18,r,r,B.aK,r,r,!0,r,r,r,r,r,r,r,r)),l=A.fS(r,10,r),k=!0
+R(a){var s,r=null,q=A.ahO(A.e1("Dark Pattern Detector - Clocktantra",r)),p=A.Ci(A.e1("Total Dark Patterns Detected",A.eR(r,r,B.q9,r,r,r,r,r,r,r,r,24,r,r,B.aK,r,r,!0,r,r,r,r,r,r,r,r)),r,r),o=A.Ci(A.a5w(new A.a7J(),A.bT(0,0,2),new A.hs(0,575),t.S),r,r),n=A.fS(r,20,r),m=A.e1("Site-wise Data:",A.eR(r,r,B.q9,r,r,r,r,r,r,r,r,18,r,r,B.aK,r,r,!0,r,r,r,r,r,r,r,r)),l=A.fS(r,10,r),k=!0
 k=k?B.wO:r
 s=t.G
 return A.ako(q,A.a3u(B.fg,A.a([new A.IY(B.xM,new A.xv("assets/images/bg.svg",r,r,r,r),r,r),new A.en(new A.bt(16,16,16,16),A.tv(A.a([p,o,n,m,l,new A.DX(1,B.kE,new A.Ex(new A.a3i(2,10,10,150),new A.Iz(new A.a7K(this),4,!0,!0,!0,r),r,B.aY,!1,r,r,k,!1,r,4,B.b1,B.vj,r,B.ag,r),r)],s),B.ba,B.bG),r)],s),B.ii))}}
